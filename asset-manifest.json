@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quadratic-equation-calculator/static/css/main.a2f8f1be.css",
+    "main.js": "/quadratic-equation-calculator/static/js/main.8c8cc870.js",
+    "index.html": "/quadratic-equation-calculator/index.html",
+    "main.a2f8f1be.css.map": "/quadratic-equation-calculator/static/css/main.a2f8f1be.css.map",
+    "main.8c8cc870.js.map": "/quadratic-equation-calculator/static/js/main.8c8cc870.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2f8f1be.css",
+    "static/js/main.8c8cc870.js"
+  ]
+}
